@@ -1,0 +1,6 @@
+{
+  "name": "DailyRoutine & College Schedule Tracker",
+  "description": "Dynamic daily routine and task manager with fixed college hours, real-time remaining task alerts, and interactive schedule planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
